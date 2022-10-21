@@ -1,7 +1,7 @@
 {
-  "name": "projeto-base",
+  "name": "explorer-lab-01",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "imask": "^6.4.3"
   }
 }
